@@ -42,11 +42,33 @@
 
 ![](.gitbook/assets/image%20%289%29.png)
 
-![](.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2812%29.png)
 
 {% hint style="info" %}
-自走車的動作在**玩具及馬達**➡中自走
+自走車的動作也在**玩具及馬達**➡**自走車**中
 {% endhint %}
 
 ![](.gitbook/assets/webduino-blocks-9-.png)
+
+#### 5.完整程式
+
+![](.gitbook/assets/webduino-blocks-11-.png)
+
+#### 6. 執行程式
+
+{% hint style="info" %}
+按下**紅色按鈕**即可執行程式
+{% endhint %}
+
+![](.gitbook/assets/image%20%2810%29.png)
+
+#### 7.手機操控
+
+{% hint style="info" %}
+點選右上角 QRcode 圖示會跳出一個 QRcode
+{% endhint %}
+
+拿出手機📱掃描就可以把手機當作遙控器使用了喔!!
+
+![](.gitbook/assets/image%20%2813%29.png)
 
