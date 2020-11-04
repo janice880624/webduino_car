@@ -18,7 +18,35 @@
 
 這邊要注意的是我們開發版是使用 Smart 喔!!
 
-![](.gitbook/assets/webduino-blocks-1-.png)
+綠色方塊是 Device ID 要自己填入，EX : 我的板子 ID 是 ABCDE 所以就填入 ABCDE
 
-#### 3.腳
+如果忘記的可以到連線設定那一頁回憶
+
+![](.gitbook/assets/webduino-blocks-7-.png)
+
+#### 3.腳位設定
+
+{% hint style="info" %}
+玩具及馬達➡自走車
+{% endhint %}
+
+因為我們事先幫大家都將線路焊接完成，所以腳位要和我們設定一樣
+
+![](.gitbook/assets/webduino-blocks-8-.png)
+
+#### 4.遙控器設定
+
+{% hint style="info" %}
+遙控器在**燒瓶**裡面，點選燒瓶後會跳出**網頁互動測試**方塊，在頁面左下角也會跳出相對應的積木
+{% endhint %}
+
+![](.gitbook/assets/image%20%289%29.png)
+
+![](.gitbook/assets/image%20%2810%29.png)
+
+{% hint style="info" %}
+自走車的動作在**玩具及馬達**➡中自走
+{% endhint %}
+
+![](.gitbook/assets/webduino-blocks-9-.png)
 
