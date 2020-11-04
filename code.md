@@ -54,7 +54,7 @@
 
 ![](.gitbook/assets/webduino-blocks-11-.png)
 
-#### 6. 執行程式
+#### 6.執行程式
 
 {% hint style="info" %}
 按下**紅色按鈕**即可執行程式
