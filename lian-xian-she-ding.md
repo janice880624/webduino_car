@@ -4,7 +4,7 @@ description: "這部分要完成，才可以順利控制車子喔 \U0001F920"
 
 # 連線設定
 
-### 第一步👉接上電源，設定開發版
+### 第一步👉接上電源，設定開發版\(此時的開發版會亮紅燈很正常\)
 
 1.尋找名稱為 Autocar XX 的 wifi 
 
@@ -26,7 +26,17 @@ SSID ➡ wifi名稱
 
 PWD ➡ wifi 密碼
 
-完成後按下 SUBMIT 儲存
-
 ![](.gitbook/assets/image%20%281%29.png)
+
+### 第三步👉完成後按下 SUBMIT 儲存
+
+如設定成功會出現以下畫面
+
+![](.gitbook/assets/image%20%283%29.png)
+
+### 第四步👉確認是否連上線
+
+送出設定後，開發版會重新啟動，燈號顯示狀態如下
+
+![](.gitbook/assets/image%20%282%29.png)
 
