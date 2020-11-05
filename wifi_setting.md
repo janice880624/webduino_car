@@ -6,11 +6,11 @@ description: "這部分要完成，才可以順利控制車子喔 \U0001F920"
 
 ### 第一步👉接上電源，設定開發版\(此時的開發版會亮紅燈很正常\)
 
-1.尋找名稱為 Autocar XX 的 wifi 
+1.尋找名稱為 wcXXXX 的 wifi 
 
 2. 輸入密碼**12345678**
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%2814%29.png)
 
 ### 第二步👉設定 WiFi 帳號與密碼
 
