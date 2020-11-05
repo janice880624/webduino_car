@@ -6,7 +6,7 @@
 
 ### 方法二👉跟著下面步驟一起學程式
 
-#### 1. 登入程式平台 [https://blockly.webduino.io/](https://blockly.webduino.io/) \( 有 google 帳號的使用者可使用此連結 [https://id.webduino.io/signin](https://id.webduino.io/signin)\)
+#### 1.登入程式平台 [https://blockly.webduino.io/](https://blockly.webduino.io/) \( 有 google 帳號的使用者可使用此連結 [https://id.webduino.io/signin](https://id.webduino.io/signin)\)
 
 ![](.gitbook/assets/image.png)
 
