@@ -1,0 +1,80 @@
+html,body{
+  font-family:'Verdana';
+  background:#333;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#btn-controller{
+  position:relative;
+  box-sizing:border-box;
+  width:100%;
+  max-width:550px;
+  padding:20px 10px;
+  margin:0 auto;
+  overflow: hidden;
+  pointer-events: auto!important;
+}
+
+.btn{
+  position:relative;
+  display:inline-block;
+  width:calc(33% - 8px);
+  height:60px;
+  background:#555;
+  margin:3px 1px;
+  text-align:center;
+  line-height:60px;
+  border-radius:5px;
+  color:#fff;
+  font-size:22px;
+  vertical-align: middle;
+  cursor:pointer;
+}
+
+.btn:active{
+  background:#777;
+}
+@media (max-width:480px){
+  .btn{
+    height:50px;
+    line-height:50px;
+    font-size:20px;
+  }
+}
+@media (max-width:400px){
+  .btn{
+    height:45px;
+    line-height:45px;
+    font-size:18px;
+  }
+}
+
+.btn-group{
+  width:100%;
+  text-align:center;
+}
+
+.btn-group.btn-direction-group{
+  margin-bottom:10px;
+}
+
+.btn-group.btn-direction-group .btn{
+  height:80px;
+  line-height:80px;
+}
+
+@media (max-width:480px){
+  .dbtn-group.btn-direction-group .btn{
+    height:70px;
+    line-height:70px;
+  }
+}
+@media (max-width:400px){
+  .btn-group.btn-direction-group .btn{
+    height:60px;
+    line-height:60px;
+  }
+}
